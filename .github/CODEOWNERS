@@ -1,0 +1,4 @@
+# NOTE: Order matters. The last matching pattern will act as the code owners.
+# MORE INFO: https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/about-code-owners
+
+* @natalieesun
